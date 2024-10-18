@@ -1,0 +1,9 @@
+# Directory
+.idea
+build
+logs
+
+# File
+.editorconfig
+*.exe
+*.log
